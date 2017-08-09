@@ -12,7 +12,7 @@ Code and documentation for construction machine learning models to monitor Parki
 - [Models](#models)
 - [Final Model and Visualization](#final-model)
 
-![alt tag](https://github.com/tukichen/FightingParkinson/blob/master/Wearable_device.png)
+![alt tag](https://github.com/tukichen/XEED/blob/master/Wearable_device.png)
 
 ## Background and Data
 ### Study Design
@@ -20,7 +20,7 @@ Parkinson's disease is an degenerative movement disorder affecting 7-9 millions 
 
 In this study, patients and healthy controls subject will come into wear XEED divices on 4 limbs and be monitored for the subsequent 8-9 hours in an clinic for activities and symptoms. Patients will take Parkinson's medications twice during the study period, once at begining of the study and again 4 hours later.  
 
-![alt tag](https://github.com/tukichen/FightingParkinson/blob/master/Study_design.png)
+![alt tag](https://github.com/tukichen/XEED/blob/master/Study_design.png)
 
 ### Data Collected
 Movement data from the device 
